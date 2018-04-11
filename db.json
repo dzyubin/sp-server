@@ -1,16 +1,29 @@
 {
-  "posts":[
+  "companies": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 2,
+      "name": "Test Company 2",
+      "address": "Test Company 2 address"
+    },
+    {
+      "name": "Test Company 3",
+      "address": "1",
+      "owner": "1",
+      "id": "ryiVKYooG",
+      "createdOn": 1523452210572
+    },
+    {
+      "name": "Test Company 1",
+      "address": "Test Company 1",
+      "owner": "Test Company 1",
+      "id": "SJMyTKjof",
+      "createdOn": 1523453146234
     }
   ],
-  "comments" : [
+  "users": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "name": "Test User"
     }
   ]
 }
