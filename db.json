@@ -23,15 +23,21 @@
   "users": [
     {
       "id": 1,
-      "name": "Test User 1"
+      "name": "Test User 1",
+      "company": "Test Company 1",
+      "role": "Administrator"
     },
     {
       "id": 2,
-      "name": "Test User 2"
+      "name": "Test User 2",
+      "company": "Test Company 2",
+      "role": "Administrator"
     },
     {
       "id": 3,
-      "name": "Test User 3"
+      "name": "Test User 3",
+      "company": "Test Company 3",
+      "role": "Technician"
     }
   ]
 }
