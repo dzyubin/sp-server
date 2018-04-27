@@ -47,19 +47,19 @@
       "devices": [
       	{
       		"id": "45851aab6c354a2d8a23866154d09165",
-      		"name" "Smart pole 1"
+      		"name": "Smart pole 1"
       	},
       	{
       		"id": "cab11af5794f4ba7835ae3ce6f973708",
-      		"name" "Smart pole2"
+      		"name": "Smart pole2"
       	},
       	{
       		"id": "143d85dd23b845e4bbb728b43932f7f7",
-      		"name" "Smart pole 3"
+      		"name": "Smart pole 3"
       	},
       	{
       		"id": "a99baadcf4e54e5a9386803e82e7aaf1",
-      		"name" "Smart pole 4"
+      		"name": "Smart pole 4"
       	}
       ]
     },
@@ -69,19 +69,19 @@
       "devices": [
       	{
       		"id": "0384fc8953f14d708508a2ca2a123a14",
-      		"name" "Smart pole 5"
+      		"name": "Smart pole 5"
       	},
       	{
       		"id": "7e33d1cacf464ed788ef4bb8b4483909",
-      		"name" "Smart pole 6"
+      		"name": "Smart pole 6"
       	},
       	{
       		"id": "1607119458ac435a923f2796f99f0858",
-      		"name" "Smart pole 7"
+      		"name": "Smart pole 7"
       	},
       	{
       		"id": "6622578e91d940b18392bf9072c3c101",
-      		"name" "Smart pole 8"
+      		"name": "Smart pole 8"
       	}
       ]
     }
